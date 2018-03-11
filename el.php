@@ -1,5 +1,5 @@
 <?php
-// Hellenic (Greek) language
+// Hellenic (Greek) Language Pack
 // for Doecoins.com
 // by Adonis Valamontes
 $lang = array();
