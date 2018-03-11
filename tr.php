@@ -1,5 +1,5 @@
 <?php
-// English (US) language
+// Turkish (TR) language Pack
 // for Doecoins.com
 // by Adonis Valamontes
 $lang = array();
@@ -245,5 +245,6 @@ $lang['completed'] = 'Completed';
 $lang['denied'] = 'Denied';
 $lang['faq'] = 'Frequently Asked Questions';
 // Latin Phrase
+// Do not translate or delete Latin Phrase
 $lang['phrase'] = '«VENI VIDI VICI»';
 ?>
