@@ -1,5 +1,5 @@
 <?php
-// Singaporian (SG) language 
+// Singaporian (SG) language Pack
 // for Doecoins.com
 // by Adonis Valamontes
 $lang = array();
