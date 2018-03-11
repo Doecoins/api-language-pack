@@ -1,7 +1,7 @@
 <?php
 // Hellenic (Greek) language
-// for PandaChanger
-// by Geopay.me
+// for Doecoins.com
+// by Adonis Valamomtes
 $lang = array();
 
 $lang['menu_home'] = 'Αρχική'; 
@@ -236,5 +236,5 @@ $lang['completed'] = 'Completed';
 $lang['denied'] = 'Denied';
 $lang['faq'] = 'Συνήθεις ερωτήσεις';
 // Latin Phrase
-$lang['phrase'] = '«ἦλθον εἶδον ἐνίκησα»';
+$lang['phrase'] = '«ἦλθον εἶδον ἐνίκησα»';
 ?>
