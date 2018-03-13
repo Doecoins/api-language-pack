@@ -1,21 +1,21 @@
 <?php
-// English (US) language
+// Russian (ru) language
 // for Doecoins.com
 // by Adonis Valamontes
 $lang = array();
 
 $lang['menu_home'] = 'HOME'; 
 $lang['menu_my_account'] = 'MY ACCOUNT';
-$lang['menu_login'] = 'LOGIN';
-$lang['menu_register'] = 'REGISTER';
-$lang['menu_testimonials'] = 'CUSTOMER REVIEWS';
-$lang['menu_about'] = 'ABOUT';
-$lang['menu_terms'] = 'TERMS & CONDITIONS';
-$lang['menu_policy'] = 'POLICY';
+$lang['menu_login'] = 'АВТОРИЗОВАТЬСЯ';
+$lang['menu_register'] = 'РЕГИСТР';
+$lang['menu_testimonials'] = 'ОТЗЫВЫ КЛИЕНТОВ';
+$lang['menu_about'] = 'ОКОЛО';
+$lang['menu_terms'] = 'ТЕРМИНЫ И УСЛОВИЯ';
+$lang['menu_policy'] = 'ПОЛИТИКА';
 $lang['menu_rates'] = 'RATES';
 $lang['menu_uberpay'] = 'UberPay Wallet Coins';
 $lang['menu_contact'] = 'CONTACT';
-$lang['menu_faq'] = 'FAQ';
+$lang['menu_faq'] = 'Вопросы-Ответы';
 // QRcode
 $lang['qrcode'] = '<?php echo http://doecoins.com/qrcode/?q=$lang[$payee]?>';
 // Altcoin Block Explorers - no not change the links below
