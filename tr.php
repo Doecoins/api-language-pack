@@ -6,15 +6,15 @@ $lang = array();
 
 $lang['menu_home'] = 'HOME'; 
 $lang['menu_my_account'] = 'MY ACCOUNT';
-$lang['menu_login'] = 'LOGIN';
-$lang['menu_register'] = 'REGISTER';
-$lang['menu_testimonials'] = 'CUSTOMER REVIEWS';
-$lang['menu_about'] = 'ABOUT';
-$lang['menu_terms'] = 'TERMS & CONDITIONS';
-$lang['menu_policy'] = 'POLICY';
+$lang['menu_login'] = 'OTURUM AÇ';
+$lang['menu_register'] = 'KAYIT OLMAK';
+$lang['menu_testimonials'] = 'MUSTERİ DEGERLENDİRMELERİ';
+$lang['menu_about'] = 'HAKKINDA';
+$lang['menu_terms'] = 'ŞARTLAR VE KOŞULLAR';
+$lang['menu_policy'] = 'POLİTİKA';
 $lang['menu_rates'] = 'RATES';
 $lang['menu_uberpay'] = 'UberPay Wallet Coins';
-$lang['menu_contact'] = 'CONTACT';
+$lang['menu_contact'] = 'TEMAS';
 $lang['menu_faq'] = 'FAQ';
 // QRcode
 $lang['qrcode'] = '<?php echo http://doecoins.com/qrcode/?q=$lang[$payee]?>';
